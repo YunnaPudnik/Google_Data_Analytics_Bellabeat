@@ -58,7 +58,7 @@ Google Slides is used to perform the presentation, which contains main data poin
 # STEP 6: ACT
 
 **Analysis shows:**
-- Almost half of participants lives either lightly active or sedentary lifestyle, but 33% are into very active lifestyle.
+- Almost half of participants live either lightly active or sedentary lifestyle, but 33% are into very active lifestyle.
 - People tend to walk less on Sunday and barely touch minimum number of step throughout a week.
 - People with sedentary lifestyle burn the least calories. 
 - Our participants sleep around 7 hours a night. And users of very active lifestyle sleep around 5 hours on average, which is 3 hours less than required amount.
